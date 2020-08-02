@@ -9,6 +9,6 @@
 	UNIX/LINUX 
 
 ### Usage
-	1. download or clone this projects 
+	1. download or clone this project 
 	2. execute ./PSChecker
 
