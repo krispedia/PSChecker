@@ -1,7 +1,7 @@
 ## PSChecker
 ---
 
-#### A pre-solved problems checking program
+#### A simple pre-solved problems checking program
 
 ---
 
