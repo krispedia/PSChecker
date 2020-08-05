@@ -6,7 +6,7 @@
 ---
 
 ![img1](https://github.com/krispedia/PSChecker/blob/master/imgs/PSChecker_v0.1.png)
-### Last Version
+### Lastest Version
 	v0.1
 
 ### OS
